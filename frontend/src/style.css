@@ -1,0 +1,10 @@
+/* Custom App Overrides */
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: var(--bs-font-sans-serif);
+}
+
+#app {
+  min-height: 100vh;
+}
